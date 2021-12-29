@@ -1,0 +1,64 @@
+[ {
+    "img": "https://www.planetware.com/wpimages/2019/11/indonesia-bali-best-beach-resorts-four-seasons-resort-bali-jimbaran-bay.jpg",
+    "resort_name": "Jimbaran Bay",
+    "amount": "600 $",
+    "value": 5,
+ "sit" : 6,
+    "description": "Other amenities include a beach club and, for a fee, water sports like surf lessons, water-biking, and paddleboarding."
+  }, {
+    "img": "https://www.oyster.com/wp-content/uploads/sites/35/2019/05/tresna-two-bedroom-villa-v10719266-1440-1024x683.jpg",
+    "resort_name": "Abi Bali Resort & Villa",
+    "amount": "700 $",
+    "value": 3,
+    "sit" : 16,
+    "description": "The 32 units have contemporary decor and most have outdoor bathrooms; One- and Two-Bedroom Suite Villas also have their own private pools."
+  }, {
+    "img": "https://q-xx.bstatic.com/images/hotel/max1024x768/275/27537164.jpg",
+    "resort_name": "Eastin Ashta Resort Canggu",
+    "amount": "500 $",
+    "value": 4,
+ "sit" : 15,
+    "description": "I recommend the waffles with eggs - and they have yummy juices and a variety of coffee drinks.I would definitely stay here again."
+  }, {
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/58a96f40391953.5606d9c483e30.jpg",
+    "resort_name": "Mulia Resort",
+    "amount": "300 $",
+    "value": 3,
+ "sit" : 9,
+    "description": "This is our best experience ever staying in a hotel. All staff were very helpful and being the nicest to us. "
+  }, {
+    "img": "http://mypridetoday.com/wp-content/uploads/2019/05/Bali-Honeymoon-Destination.jpg",
+    "resort_name": "Caroline Guest House",
+    "amount": "250 $",
+    "value": 3,
+ "sit" : 12,
+    "description": "I stayed in caroline for 7 days The staffs were very nice and kind, Very recommend for travelers who seek cheap place to sleep."
+  }, {
+    "img": "https://honeymoongoals.com/wp-content/uploads/2019/12/pool-2.jpg ",
+    "resort_name": "Pullman Bali Legian Beach",
+    "amount": "800 $",
+    "value": 5,
+ "sit" : 14,
+    "description": "We enjoyed our stay at the new Pullman hotel in Bali. The rooms were large and very well appointed. The daily servicing was excellent."
+  }, {
+    "img": "https://www.balinews.co.id/wp-content/uploads/2020/07/Karma-Kandara-Luxury-Pool-Villa-10.jpg",
+    "resort_name": "Grandmas Plus Hotel Seminyak",
+    "amount": "420 $",
+    "value": 4,
+    "sit" : 14,
+    "description": "The location was pretty good and the employees were very nice and kind."
+  },  {
+    "img": "https://balistarisland.com/wp-content/uploads/2020/03/oneday-nusapenida-instagramtour-710x390.jpg",
+    "resort_name": "Blossom Eco Luxe Villas by Ekosistem",
+    "amount": "510 $",
+    "value": 5,
+ "sit" : 7,
+    "description": "Meals served include breakfast,dinner and lunch.You can pick and choose from a wide array of cuisines including international and asian."
+  }, {
+    "img": "https://somethingoffreedom.com/wp-content/uploads/2019/01/Kelingking-beach-Nusa-Penida-Bali-travel-tips.jpg",
+    "resort_name": "Eastin Ashta Resort Canggu",
+    "amount": "730 $",
+    "value": 4,
+ "sit" : 10,
+    "description": "Boasting a pool and a fitness centre,Eastin Ashta Resort Canggu is a modern accommodation situated only a 6-minute walk from Echo Beach."
+  }]
