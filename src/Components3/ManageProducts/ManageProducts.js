@@ -105,7 +105,7 @@ const ManageProducts = () => {
                     <div className="text-center ">
                        <div className="ps-3">
                       {" "}
-                      <h5 className="star"> {v.name}</h5>
+                      <h5 className="star"> {v.resort_name}</h5>
                       
                       </div>
                       {/* <button
@@ -161,21 +161,21 @@ const ManageProducts = () => {
                       {" "}
                       <img
                         className="rounded"
-                        style={{ height: "220px", width: "280px" }}
+                        style={{ height: "200px", width: "280px" }}
                         src={v.img}
                         alt=""
                       />
                     </div>{" "}
                     <br />
-                    <div className="ps-3">
+                    <div className="">
                       {" "}
-                      <p>Name : {v.name}</p>
+                      <p>Name : {v.resort_name}</p>
                       <p style={{ color: "red" }}>Amount : {v.amount}</p>
                       <p>{v.description}</p>
-                      <div className="ps-2">
+                      <div className="">
                         <ReactStars
                           {...{
-                            size: 30,
+                            size: 20,
                             value: v.value,
                             edit: false,
                           }}
